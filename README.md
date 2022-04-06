@@ -1,4 +1,4 @@
-# H1 HOW PLAYING GAMES CAN HELP YOU SHARPEN YOU'RE MIND
+# HOW PLAYING GAMES CAN HELP YOU SHARPEN YOU'RE MIND
 
 You can use the [editor on GitHub](https://github.com/kmbaquillas/kmbaquillas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
